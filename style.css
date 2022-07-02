@@ -21,3 +21,18 @@ li {
   border: 1px solid black;
   
 }
+
+.block {
+  width: 90px;
+  height: 115px;
+  background-color: blue;
+  color: white;
+}
+
+.wonderfulForms {
+  margin: 35px;
+}
+
+img {
+  width: 250px;
+}
